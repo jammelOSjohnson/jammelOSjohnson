@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, node, mongodb**
 
-- 📫 How to reach me **jammeljohnson@gmail.com**
+<!--- 📫 How to reach me **jammeljohnson@gmail.com**-->
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1kcbbPw5azosirUWVE_ziLeCmSXuWLjzw/edit?usp=sharing&ouid=102350862374533348303&rtpof=true&sd=true](https://docs.google.com/document/d/1kcbbPw5azosirUWVE_ziLeCmSXuWLjzw/edit?usp=sharing&ouid=102350862374533348303&rtpof=true&sd=true)
 
