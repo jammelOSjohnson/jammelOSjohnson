@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Rust(Solana Smart Contracts)**
 
-- 👨‍💻 All of my projects are available at [https://jammeljohnson.netlify.app/](https://jammeljohnson.netlify.app/)
+<!--- 👨‍💻 All of my projects are available at [https://jammeljohnson.netlify.app/](https://jammeljohnson.netlify.app/)-->
 
 - 💬 Ask me about **react, node, mongodb**
 
